@@ -6,4 +6,4 @@ Web service for automatic medical image segmentation utilizing the FCBFormer mod
 
 # Download PTH file
  download and place the following .pth files into the weights directory.
- [pretrained FCBFormer pth file](https://drive.google.com/file/d/1L5MP6s1AdbY-CZfQc4BlH8j8XF89UJ1W/view?usp=sharing)
+ [(weights FCBFormer)](https://drive.google.com/file/d/1L5MP6s1AdbY-CZfQc4BlH8j8XF89UJ1W/view?usp=sharing)
